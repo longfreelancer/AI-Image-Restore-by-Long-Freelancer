@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Restoration & Upscaler 20.9 - 1.10 AM",
+  "description": "An application that uses AI to restore, deblur, and upscale blurry or low-resolution images to super-sharp 8K quality, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
